@@ -3,7 +3,7 @@
 
 <h2>What the bot does:</h2>
 
-- Swipes all profiles to the right in a human-like fashion, with a swipe to the left every 100 swipes or so.
+- Swipes all profiles to the right in a human way, with a swipe to the left every 100 swipes or so.
 
 - Program to 200 swipes. To change this number, go to "bot.py" and change the value of "nbr_of_swipes".
 
