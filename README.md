@@ -14,8 +14,8 @@ Sends an instagram DM to the found profiles. To modify this message, go to "inst
 If the account is private, the bot can't send DM, so it follows the profile and put it in the file "await_to_accept.txt".
 
 <br>
-<h3>How it work:</h3>
-<br>
+<h2>How it work:</h2>
+
 <h4><strong>In the Tinder Bot folder :</strong></h4>
 
 
