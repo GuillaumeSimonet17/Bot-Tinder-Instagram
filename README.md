@@ -13,10 +13,10 @@ Sends an instagram DM to the found profiles. To modify this message, go to "inst
 
 If the account is private, the bot can't send DM, so it follows the profile and put it in the file "await_to_accept.txt".
 
-
+<br>
 <h3>How it work:</h3>
-
-<strong>In the Tinder Bot folder:</strong>
+<br>
+<h4><strong>In the Tinder Bot folder :</strong></h4>
 
 
 1 - Run script-run.sh
@@ -31,9 +31,9 @@ If the account is private, the bot can't send DM, so it follows the profile and 
 
 5 - get the file new_tinder_data.txt and copy and paste it in the 'insta bot' folder (if you see words that you know are not insta profiles, remove them)
 
-
-In the Insta Bot folder :
-
+<br>
+<h4><strong>In the Insta Bot folder :</strong></h4>
+<br>
 
 1 - Run script-run.sh
 
