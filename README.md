@@ -1,7 +1,7 @@
 # Bot-Tinder-Instagram
 
 
-What the bot does:
+<h2>What the bot does:</h2>
 
 Swipes all profiles to the right in a human-like fashion, with a swipe to the left every 100 swipes or so.
 
@@ -14,7 +14,7 @@ Sends an instagram DM to the found profiles. To modify this message, go to "inst
 If the account is private, the bot can't send DM, so it follows the profile and put it in the file "await_to_accept.txt".
 
 
-How it work:
+<h3>How it work:</h3>
 
 <strong>In the Tinder Bot folder:</strong>
 
