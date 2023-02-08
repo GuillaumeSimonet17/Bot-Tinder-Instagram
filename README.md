@@ -19,7 +19,7 @@
 <h4><strong>In the Tinder Bot folder :</strong></h4>
 
 
-<h3>1</h3> - Run script-run.sh
+1 - Run script-run.sh
 
 2 - Uncheck as on the picture
 
