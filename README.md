@@ -16,7 +16,7 @@ If the account is private, the bot can't send DM, so it follows the profile and 
 
 How it work:
 
-In the Tinder Bot folder:
+<b>In the Tinder Bot folder:</b>
 
 
 1 - Run script-run.sh
